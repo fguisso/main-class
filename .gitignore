@@ -1,0 +1,12 @@
+.env
+.DS_Store
+
+node_modules/
+password.txt
+
+*.env
+*.cache
+
+admin/
+
+dist/*.env
